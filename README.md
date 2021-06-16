@@ -1,2 +1,2 @@
 # short-term-housing
- Clone of Airbnb
+ Clone of the Airbnb app, includes all features
